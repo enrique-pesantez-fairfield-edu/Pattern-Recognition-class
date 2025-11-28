@@ -426,32 +426,6 @@ pip install numpy pandas scipy matplotlib seaborn requests
 - **Normalization**: Each stroke is independently normalized for consistent comparison
 - **Pattern Detection**: Currently implements basic patterns; can be extended with ML models
 
-## 🎓 Educational Value
-
-This project demonstrates:
-
-1. **Signal Processing**: Peak detection, smoothing, noise reduction
-2. **Time Series Analysis**: Segmentation, feature extraction
-3. **Pattern Recognition**: Sequence classification, similarity metrics
-4. **API Integration**: Rate-limited data collection
-5. **Data Pipeline**: ETL, transformation, visualization
-
-## 🔄 Future Enhancements
-
-- Machine learning pattern classification
-- Real-time data streaming
-- Additional technical indicators
-- Predictive modeling
-- Portfolio optimization
-- Risk analysis integration
-
-## 📞 Support
-
-For questions about the pattern recognition algorithm or stroke extraction, refer to:
-- `stock_pattern_recognizer.py` - Core implementation
-- Inline code comments and docstrings
-- This README
-
 ---
 
 **Summary**: This system implements a complete pattern recognition pipeline for stock market data, with the `strokes()` function serving as the callable routine that processes data into sequences between critical points, meeting all assignment requirements.
