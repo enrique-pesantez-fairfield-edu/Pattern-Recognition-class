@@ -1,0 +1,22 @@
+STOCK PATTERN ANALYSIS REPORT
+======================================================================
+
+Symbol: TSLA
+Company: Tesla
+Analysis Date: 2025-11-24 14:51:23.426736
+
+DATA SUMMARY
+----------------------------------------------------------------------
+Stock data points: 60
+Critical points: 23
+Strokes extracted: 24
+
+PATTERN DETECTION
+----------------------------------------------------------------------
+- double_top (confidence: 80.0%)
+- double_top (confidence: 80.0%)
+- double_bottom (confidence: 80.0%)
+- double_top (confidence: 80.0%)
+- double_bottom (confidence: 80.0%)
+
+======================================================================
